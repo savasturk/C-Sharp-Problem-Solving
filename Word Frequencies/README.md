@@ -1,0 +1,2 @@
+Enter a total of 3 “Strings”, one text and two search words.""true"" in case of detecting the amount (frequency) of the words in the transmitted text and if the amount of their presence is equal to each other. If they are different from each other, please write a function that returns "false".
+For example, when we search for the words "is" and "not" in the text "This is not", the function will return "false" because there are 2 "is" and 1 "not", but if I pass "This is not not" as text, the function will return "true" because 2 "is" and 2 "not" will be detected.
